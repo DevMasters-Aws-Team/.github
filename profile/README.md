@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/tecnologi-zifrikc/image/upload/v1784545467/Gemini_Generated_Image_72fm0n72fm0n72fm_kwwjvb.png" alt="DevMasters Shield Logo" width="250"/>
+  <img src="https://res.cloudinary.com/tecnologi-zifrikc/image/upload/v1784545467/Gemini_Generated_Image_72fm0n72fm0n72fm_kwwjvb.png" alt="DevMasters Shield Logo" width="650"/>
   
   # 🛡️ Bienvenidos a DevMasters-Aws-Team
   
