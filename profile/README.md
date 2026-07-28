@@ -32,7 +32,7 @@ Estandarizar el uso del *Specs Driven Development* (SDD) y agentes de IA en las 
 ### 📅 Información Oficial del Evento
 
 **Competencia:** Desarrollo de Agentes Inteligentes con Kiro y AWS Bedrock  
-**Formato:** Desarrollo ágil de 7 días (Monorepo/Microservicios)  
+**Formato:** Desarrollo ágil de 7 días (Microservicios)  
 **Objetivo:** Creación de un agente funcional capaz de interactuar con el entorno AWS, procesar logs y aplicar soluciones usando herramientas SRE.  
 **Metodología:** SDD (Specs Driven Development)
 
